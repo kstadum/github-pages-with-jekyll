@@ -1,8 +1,8 @@
-title: Alone Together - Surviving Quarantine
+title: "Alone Together - Surviving Quarantine"
 author: Kristin
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-As we find ourselves moving physically farther and farther apart through social distancing, quarantine, and even isolation, as we struggle to grasp the full meaning of the word "pandemic," maybe we can find ways to help each other through it.
+"As we find ourselves moving physically farther and farther apart through social distancing, quarantine, and even isolation, as we struggle to grasp the full meaning of the word "pandemic," maybe we can find ways to help each other through it."  
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
